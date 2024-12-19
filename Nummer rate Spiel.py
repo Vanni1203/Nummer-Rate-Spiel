@@ -26,3 +26,4 @@ while True:
     if (durchgang == 8):
         print('Schade, du hast verloren')
         print('Es war die Zahl ' + str(n))
+        break
